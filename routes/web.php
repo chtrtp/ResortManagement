@@ -12,8 +12,7 @@
 */
 
 Route::get('/', function () {
-    // COMMENT ;w;
-    return view('welcome');
+    return 'HACK BY MERANOTE :)';
 });
 
 Route::get('/resort', 'MyFirstController@indexResort');
