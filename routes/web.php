@@ -11,8 +11,30 @@
 |
 */
 
-Route::get('/', function () {
+Route::get('welcome', function() {
     return view('welcome');
 });
 
-Route::get('/resort', 'MyFirstController@indexResort');
+Route::get('/', function() {
+    return view('home');
+});
+Route::get('about', function() {
+    return view('about');
+});
+Route::get('contact', function() {
+    return view('contact');
+});
+Route::get('login', function() {
+    return view('login');
+});
+Route::get('resort', 'MyFirstController@indexResort');
+Auth::routes();
+
+Route::get('database-test', function () {
+    if (DB::connection()->getDatabaseName())
+    {
+        echo 'Connected successfully to database ' . DB::connection()->getDatabaseName();
+    }
+});
+Route::get('home', 'HomeController@index')->name('home');
+Route::get('admin', 'AdminController@index')->name('admin');
