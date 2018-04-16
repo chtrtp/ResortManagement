@@ -48,13 +48,13 @@
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item">
-                    <a class="nav-link link text-white display-4" href="https://mobirise.com">
+                    <a class="nav-link link text-white display-4" href="welcome.html#header2-f">
                         <span class="mbri-home mbr-iconfont mbr-iconfont-btn"></span>
                         Services
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link link text-white display-4" href="admin#features8-1a">
+                    <a class="nav-link link text-white display-4" href="admin.html#features8-1a">
                         <span class="mbri-search mbr-iconfont mbr-iconfont-btn"></span>
                         About Us
                     </a>
@@ -65,7 +65,7 @@
     </nav>
 </section>
 
-<section class="engine"><a href="https://mobirise.ws/h">make own website</a></section><section class="cid-qPmWOkciTn mbr-fullscreen mbr-parallax-background" id="header2-f">
+<section class="engine"><a href="https://mobirise.ws/l">free html site builder</a></section><section class="cid-qPmWOkciTn mbr-fullscreen mbr-parallax-background" id="header2-f">
 
     
 
@@ -124,7 +124,7 @@
                 <div class="card-box">
                     <h4 class="card-title py-3 mbr-fonts-style display-5">Multi-Platform</h4>
                     <p class="mbr-text mbr-fonts-style display-7">
-                        Accessible from both your phone and PC, no matter you're user or admin.
+                        Accessible from both your phone and PC, no matter you're user or admin, considering mobile application very soon.<br>
                     </p>
                 </div>
             </div>
@@ -155,9 +155,9 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="media-container-column col-lg-8" data-form-type="formoid">
-                    <div data-form-alert="" hidden="">We'll contact you right ASAP right away</div>
+                    <div data-form-alert="" hidden="">We'll contact you ASAP right away!</div>
             
-                    <form class="mbr-form" action="https://mobirise.com/" method="post" data-form-title="Mobirise Form"><input type="hidden" name="email" data-form-email="true" value="2pUTwbdt+Zb27OGRlGGVWKNTRbKbIX08CckPox9X3BzAyqzxRI7HSWzb/Qt7J5vDyG6KeTG9fOHrFN6bTHDbsj1ksIFh9s4ShJMvx7TQTzQYeFf036G7brlSOBsuFzqB" data-form-field="Email">
+                    <form class="mbr-form" action="https://mobirise.com/" method="post" data-form-title="Mobirise Form"><input type="hidden" name="email" data-form-email="true" value="WZ02bfZkzmKiPhWf+E3kUZemxoMPzJyuh6GlmT9OjqX9dgZ5lXCqEmxIQa6BUodVXBO1gvpa1U+9994VKs1SQLQaQndX6UnLYeOilG3f0xLfeIKS7S8iIyc7THBVmJrF" data-form-field="Email">
                         <div class="row row-sm-offset">
                             <div class="col-md-4 multi-horizontal" data-for="name">
                                 <div class="form-group">
@@ -201,10 +201,9 @@
                 <div class="card-wrapper media-container-row media-container-row">
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            ABOUT US</h4>
+                            WHAT WE DO ACTUALLY?</h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                            Mobirise is an easy website builder - just drop site elements to your page, add content and style it to look the way you like.
-                        </p>
+                            We provide a service system for every single resort like never before, guests can now report problems, order food / beverage, give a feedback directly through our site</p>
                     </div>
                 </div>
             </div>
@@ -221,12 +220,8 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper media-container-row">
                     <div class="card-box">
-                        <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Unique Styles
-                        </h4>
-                        <p class="mbr-text mbr-fonts-style display-7">
-                            Mobirise offers many site blocks in several themes, and though these blocks are pre-made, they are flexible.
-                        </p>
+                        <h4 class="card-title pb-3 mbr-fonts-style display-7">ITKMITL, #12</h4>
+                        <p class="mbr-text mbr-fonts-style display-7">Chatree Titanuwong, 57070028<br>Pongsathorn Sungyim, 57070074</p>
                     </div>
                 </div>
             </div>
@@ -246,7 +241,7 @@
         <div class="media-container-row align-center mbr-white">
             <div class="col-12">
                 <p class="mbr-text mb-0 mbr-fonts-style display-7">
-                    © Copyright 2018 STAYING - All Rights Reserved
+                    © Copyright 2018 EZVAC - All Rights Reserved
                 </p>
             </div>
         </div>
