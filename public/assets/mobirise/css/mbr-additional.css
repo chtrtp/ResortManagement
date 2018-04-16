@@ -2196,3 +2196,73 @@ body {
 .cid-qPnu4oEHVE .dropdown-item:hover {
   color: #767676 !important;
 }
+#custom-html-1r {
+  /* Bordered form */
+  /* Full-width inputs */
+  /* Set a style for all buttons */
+  /* Add a hover effect for buttons */
+  /* Extra style for the cancel button (red) */
+  /* Center the avatar image inside this container */
+  /* Avatar image */
+  /* Add padding to containers */
+  /* The "Forgot password" text */
+  /* Change styles for span and cancel button on extra small screens */
+}
+#custom-html-1r form {
+  border: 3px solid #f1f1f1;
+}
+#custom-html-1r input[type=text],
+#custom-html-1r input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+#custom-html-1r button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+#custom-html-1r button:hover {
+  opacity: 0.8;
+}
+#custom-html-1r .cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+#custom-html-1r .imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+#custom-html-1r img.avatar {
+  width: 40%;
+  border-radius: 50%;
+}
+#custom-html-1r .container {
+  padding: 16px;
+}
+#custom-html-1r span.psw {
+  float: right;
+  padding-top: 16px;
+}
+@media screen and (max-width: 300px) {
+  #custom-html-1r span.psw {
+    display: block;
+    float: none;
+  }
+  #custom-html-1r .cancelbtn {
+    width: 100%;
+  }
+}
+.cid-qPnsw4QuUe {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}

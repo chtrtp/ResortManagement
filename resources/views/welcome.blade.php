@@ -54,10 +54,9 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link link text-white display-4" href="admin.html#features8-1a">
-                        <span class="mbri-search mbr-iconfont mbr-iconfont-btn"></span>
-                        About Us
-                    </a>
+                    <a class="nav-link link text-white display-4" href="admin"><span class="mbri-question mbr-iconfont mbr-iconfont-btn"></span>
+                        
+                        How it works</a>
                 </li></ul>
             <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-success display-4" href="welcome.html#form1-p"><span class="mbri-map-pin mbr-iconfont mbr-iconfont-btn"></span>
                     Make place</a></div>
@@ -65,7 +64,7 @@
     </nav>
 </section>
 
-<section class="engine"><a href="https://mobirise.ws/l">free html site builder</a></section><section class="cid-qPmWOkciTn mbr-fullscreen mbr-parallax-background" id="header2-f">
+<section class="engine"><a href="https://mobirise.ws/f">simple site builder</a></section><section class="cid-qPmWOkciTn mbr-fullscreen mbr-parallax-background" id="header2-f">
 
     
 
@@ -78,8 +77,8 @@
                 <h3 class="mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style display-2">
                     Never tired of your rest</h3>
                 
-                <div class="mbr-section-btn"><a class="btn btn-md btn-white display-4" href="https://mobirise.com">BOOKING</a>
-                    <a class="btn btn-md btn-white-outline display-4" href="https://mobirise.com">LOG IN<br></a></div>
+                <div class="mbr-section-btn"><a class="btn btn-md btn-white display-4" href="">BOOKING</a>
+                    <a class="btn btn-md btn-white-outline display-4" href="">LOG IN<br></a></div>
             </div>
         </div>
     </div>
@@ -157,7 +156,7 @@
             <div class="media-container-column col-lg-8" data-form-type="formoid">
                     <div data-form-alert="" hidden="">We'll contact you ASAP right away!</div>
             
-                    <form class="mbr-form" action="https://mobirise.com/" method="post" data-form-title="Mobirise Form"><input type="hidden" name="email" data-form-email="true" value="WZ02bfZkzmKiPhWf+E3kUZemxoMPzJyuh6GlmT9OjqX9dgZ5lXCqEmxIQa6BUodVXBO1gvpa1U+9994VKs1SQLQaQndX6UnLYeOilG3f0xLfeIKS7S8iIyc7THBVmJrF" data-form-field="Email">
+                    <form class="mbr-form" action="" method="post" data-form-title="Mobirise Form"><input type="hidden" name="email" data-form-email="true" value="qSHaKs2qUWw4q50KfITYm8C+l4PBZhMmduyJGHT/TFlBfuLxzPnSdyLXBgNRQFRC3CznWWt5lw9HngVhRC3vMenGPNvMfIBE+GAymxxXg+uOyAKxZh3FLgEGvKM37GY7" data-form-field="Email">
                         <div class="row row-sm-offset">
                             <div class="col-md-4 multi-horizontal" data-for="name">
                                 <div class="form-group">
