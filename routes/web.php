@@ -11,8 +11,13 @@
 |
 */
 
+<<<<<<< HEAD
 Route::get('welcome', function() {
     return view('welcome');
+=======
+Route::get('/', function () {
+    return 'HACK BY MERANOTE 22 :)';
+>>>>>>> cad010a941a30e07a261d7a33c8a656d659e7cd3
 });
 
 Route::get('/', function() {
