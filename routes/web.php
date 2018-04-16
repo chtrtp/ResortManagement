@@ -16,7 +16,7 @@ Route::get('/welcome', function() {
 });
 
 Route::get('/', function () {
-    return 'HACK BY MERANOTE 22 :)';
+    return 'NO LONGER HACKED, TONPHO IS HANDSOME ;3';
 });
 
 Route::get('about', function() {
