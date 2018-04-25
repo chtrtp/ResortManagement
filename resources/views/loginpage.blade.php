@@ -66,9 +66,11 @@
 
 					</div>
 
-					<div class="container-login100-form-btn" href="welcome">
+					<div class="container-login100-form-btn">
 						<button class="login100-form-btn">
+							<a href="welcome">
 							Login
+							</a>
 						</button>
 					</div>
 

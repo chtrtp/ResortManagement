@@ -42,13 +42,13 @@
                          <img src="assets/images/icon-122x122.png" alt="Mobirise" title="" style="height: 3.8rem;">
                     </a>
                 </span>
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="welcome.html#header2-f">
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="welcome#header2-f">
                         EZVAC</a></span>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item">
-                    <a class="nav-link link text-white display-4" href="welcome.html#header2-f">
+                    <a class="nav-link link text-white display-4" href="welcome#header2-f">
                         <span class="mbri-home mbr-iconfont mbr-iconfont-btn"></span>
                         Services
                     </a>
@@ -58,7 +58,7 @@
                         
                         How it works</a>
                 </li></ul>
-            <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-success display-4" href="welcome.html#form1-p"><span class="mbri-map-pin mbr-iconfont mbr-iconfont-btn"></span>
+            <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-success display-4" href="welcome#form1-p"><span class="mbri-map-pin mbr-iconfont mbr-iconfont-btn"></span>
                     Make place</a></div>
         </div>
     </nav>
@@ -78,7 +78,7 @@
                     Never tired of your rest</h3>
                 
                 <div class="mbr-section-btn"><a class="btn btn-md btn-white display-4" href="">BOOKING</a>
-                    <a class="btn btn-md btn-white-outline display-4" href="">LOG IN<br></a></div>
+                    <a class="btn btn-md btn-white-outline display-4" href="loginpage">LOG IN<br></a></div>
             </div>
         </div>
     </div>
