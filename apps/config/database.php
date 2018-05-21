@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => 'project',
 	'username' => 'root',
-	'password' => 'phpmyadmin',
+	'password' => 'hD2fNHmf5Z@jWQ!X',
 	'database' => 'resortmanage',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
